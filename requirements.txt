@@ -1,0 +1,6 @@
+numpy==1.25.2
+regex==2023.8.8
+seqeval==1.2.2
+torch==2.0.1
+tqdm==4.66.1
+transformers==4.31.0

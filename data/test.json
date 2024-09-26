@@ -1,0 +1,802 @@
+[
+  {
+    "text": ["Conversion", ":", "Rob", "Andrew", "."],
+    "label": [[2, 4, "PER"]]
+  },
+  {
+    "text": ["VANCOUVER", "AT", "SAN", "ANTONIO"],
+    "label": [[0, 1, "ORG"], [2, 4, "LOC"]]
+  },
+  {
+    "text": ["Kilmarnock", "0", "Dundee", "United", "2", "(", "Olafsson", "22", ",", "51", ")", "."],
+    "label": [[0, 1, "ORG"], [2, 4, "ORG"], [6, 7, "PER"]]
+  },
+  {
+    "text": ["20-1", "Luis", "Milla", "25-1", "Luis"],
+    "label": [[1, 3, "PER"], [4, 5, "PER"]]
+  },
+  {
+    "text": ["Tampico", "port", "authorities", "said", "fishing", "restrictions", "were", "in", "place", "in", "an", "area", "adjacent", "to", "the", "port", "because", "of", "a", "geophysical", "study", "being", "carried", "out", "in", "deep", "waters", "of", "the", "region", "from", "the", "ship", "Kenda", "."],
+    "label": [[0, 1, "LOC"], [33, 34, "MISC"]]
+  },
+  {
+    "text": ["JOHANNESBURG", "1996-12-06"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["MEXICO", "CITY", "1996-12-06"],
+    "label": [[0, 2, "LOC"]]
+  },
+  {
+    "text": ["Toledo", "64,334", "160,476"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["Bure", "received", "a", "double-minor", "penalty", "for", "high-sticking", "with", "2:22", "left", "in", "the", "first", "period", "of", "Wednesday", "'s", "7-6", "overtime", "win", "by", "Vancouver", "after", "colliding", "with", "Galley", "in", "Buffalo", "zone", "."],
+    "label": [[0, 1, "PER"], [21, 22, "ORG"], [25, 26, "PER"], [27, 28, "ORG"]]
+  },
+  {
+    "text": ["Med", "oil", "products", "mostly", "lower", "as", "Elf", "strike", "ends", "."],
+    "label": [[6, 7, "ORG"]]
+  },
+  {
+    "text": ["'", "'", "In", "January", "or", "February", ",", "we", "'ll", "have", "some", "very", "close", "contacts", "with", "Mexico", "to", "add", "the", "issue", "of", "services", "and", "advance", "on", "the", "issue", "of", "investments", ",", "'", "'", "Aninat", "told", "reporters", "after", "signing", "a", "free", "trade", "deal", "with", "Canada", "."],
+    "label": [[15, 16, "LOC"], [32, 33, "PER"], [42, 43, "LOC"]]
+  },
+  {
+    "text": ["Denmark", "'s", "Radiometer", "H1", "result", "seen", "flat", "."],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["January", "ended", "29.7", "cents", "lower", "at", "$", "3.487", "per", "million", "British", "thermal", "units", "after", "dipping", "to", "a", "low", "of", "$", "3.46", "."],
+    "label": [[10, 11, "MISC"]]
+  },
+  {
+    "text": ["Result", "of", "an", "English", "F.A.", "Challenge"],
+    "label": [[3, 6, "MISC"]]
+  },
+  {
+    "text": ["Partizan", "-", "Dejan", "Koturovic", "21"],
+    "label": [[0, 1, "ORG"], [2, 4, "PER"]]
+  },
+  {
+    "text": ["Full-back", "Matthew", "Burke", "finished", "with", "a", "personal", "haul", "of", "24", "points", "to", "take", "his", "tour", "aggregate", "to", "136", "."],
+    "label": [[1, 3, "PER"]]
+  },
+  {
+    "text": ["The", "fiery", "politician", ",", "who", "is", "also", "a", "niece", "of", "screen", "star", "Sophia", "Loren", ",", "had", "accused", "AN", "leaders", "of", "stifling", "internal", "party", "debate", "."],
+    "label": [[12, 14, "PER"], [17, 18, "ORG"]]
+  },
+  {
+    "text": ["Basketball", "Association", "teams", "after", "games", "played", "on", "Thursday"],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["While", "the", "Chinese", "failed", "to", "gain", "a", "place", "in", "the", "men", "'s", "final", ",", "they", "had", "two", "in", "the", "top", "10", "of", "the", "women", "'s", "competition", ",", "Cuo", "Dan", "finishing", "a", "respectable", "seventh", "and", "Xu", "Nannan", "ninth", "."],
+    "label": [[2, 3, "MISC"], [27, 29, "PER"], [34, 36, "PER"]]
+  },
+  {
+    "text": ["A", "\"", "Euro-sceptic", "\"", "member", "of", "the", "ruling", "Conservative", "party", "said", "on", "Thursday", "British", "finance", "minister", "Kenneth", "Clarke", "had", "to", "resign", "to", "prevent", "the", "party", "disintegrating", "over", "the", "issue", "of", "a", "single", "European", "currency", "."],
+    "label": [[2, 3, "MISC"], [8, 9, "MISC"], [13, 14, "MISC"], [16, 18, "PER"], [32, 33, "MISC"]]
+  },
+  {
+    "text": ["SACRAMENTO", "6", "12", ".333", "8"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Clinton", "and", "Yeltsin", "are", "due", "to", "meet", "next", "March", "for", "their", "first", "summit", "since", "both", "were", "re-elected", "."],
+    "label": [[0, 1, "PER"], [2, 3, "PER"]]
+  },
+  {
+    "text": ["Marianne", "Timmer", "(", "Netherlands", ")", "41.58", ";", "7", "."],
+    "label": [[0, 2, "PER"], [3, 4, "LOC"]]
+  },
+  {
+    "text": ["From", "a", "commercial", "point", "of", "view", ",", "the", "meeting", "would", "be", "good", "for", "Singapore", "'s", "tourism", "industry", ",", "Tan", "said", "."],
+    "label": [[13, 14, "LOC"], [18, 19, "PER"]]
+  },
+  {
+    "text": ["TOKYO", "1996-12-06"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["Twente", "Enschede", "18", "10", "4", "4", "28", "15", "34"],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["Supple", "said", "any", "political", "gains", "the", "Singapore", "government", "would", "get", "from", "the", "WTO", "meeting", "--", "ahead", "of", "a", "general", "election", "due", "by", "April", "1997", "--", "would", "depend", "on", "how", "successful", "it", "was", "in", "pushing", "its", "economic", "agenda", "."],
+    "label": [[0, 1, "PER"], [6, 7, "LOC"], [12, 13, "ORG"]]
+  },
+  {
+    "text": ["As", "well", "as", "its", "activities", "in", "Asia", ",", "Dutch", "retail", "group", "Ahold", "has", "a", "strong", "presence", "in", "Europe", ",", "in", "the", "U.S.", "and", "the", "company", "recently", "announced", "a", "joint", "venture", "agreement", "in", "Brazil", "."],
+    "label": [[6, 7, "LOC"], [8, 9, "MISC"], [11, 12, "ORG"], [17, 18, "LOC"], [21, 22, "LOC"], [32, 33, "LOC"]]
+  },
+  {
+    "text": ["19=", "Svetlana", "Gladishiva", "(", "Russia", ")", "23"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["\"", "In", "1970s", ",", "Poland", "received", "from", "unclaimed", "accounts", "in", "Switzerland", "a", "sum", "of", "460,000", "francs", "."],
+    "label": [[4, 5, "LOC"], [10, 11, "LOC"]]
+  },
+  {
+    "text": ["A", "former", "cabinet", "minister", "in", "Central", "African", "Republic", "and", "his", "son", "were", "abducted", "from", "their", "home", "and", "murdered", "in", "growing", "ethnic", "violence", "in", "the", "capital", "Bangui", ",", "a", "government", "minister", "said", "on", "Friday", "."],
+    "label": [[5, 8, "LOC"], [25, 26, "LOC"]]
+  },
+  {
+    "text": ["CRICKET", "-", "JONES", "HITS", "CENTURY", "AS", "VICTORIA", "FIGHT", "BACK", "."],
+    "label": [[2, 3, "PER"], [6, 7, "ORG"]]
+  },
+  {
+    "text": ["Kuwait", "-", "Jassem", "Al-Huwaidi", "9", ",", "44"],
+    "label": [[0, 1, "LOC"], [2, 4, "PER"]]
+  },
+  {
+    "text": ["Kinder", "-", "Zoran", "Savic", "18"],
+    "label": [[2, 4, "PER"]]
+  },
+  {
+    "text": ["Especially", "if", "one", "takes", "into", "consideration", "our", "difficult", "post-suspension", "situation", "and", "the", "fact", "Northern", "Ireland", "is", "very", "keen", "to", "win", ".", "\""],
+    "label": [[13, 15, "LOC"]]
+  },
+  {
+    "text": ["Halverson", "was", "considering", "possible", "dates", "for", "the", "by-election", ",", "his", "office", "said", "."],
+    "label": [[0, 1, "PER"]]
+  },
+  {
+    "text": ["Hamilton", "15", "9", "4", "2", "31", "11", "31"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Leading", "World", "Cup", "standings", "(", "after", "three", "events", ")", ":"],
+    "label": [[1, 3, "MISC"]]
+  },
+  {
+    "text": ["VAIL", ",", "Colorado", "1996-12-07"],
+    "label": [[0, 1, "LOC"], [2, 3, "LOC"]]
+  },
+  {
+    "text": ["Mills", "is", "the", "38th", "person", "to", "die", "in", "Florida", "'s", "electric", "chair", "since", "the", "U.S.", "Supreme", "Court", "reversed", "itself", "in", "1976", "and", "legalised", "the", "death", "penalty", "."],
+    "label": [[0, 1, "PER"], [8, 9, "LOC"], [14, 17, "ORG"]]
+  },
+  {
+    "text": ["5.", "Florence", "Masnada", "(", "France", ")", "82"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["Vithoon", "Amorn"],
+    "label": [[0, 2, "PER"]]
+  },
+  {
+    "text": ["\"", "We", "would", "be", "very", "happy", "with", "a", "draw", "in", "Belfast", ",", "\"", "said", "Hafizi", ".", "\""],
+    "label": [[10, 11, "LOC"], [14, 15, "PER"]]
+  },
+  {
+    "text": ["--", "U.S.", "Municipal", "Desk", ",", "212-859-1650"],
+    "label": [[1, 4, "ORG"]]
+  },
+  {
+    "text": ["PHILADELPHIA", "8", "6", "0", "313", "302"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["WINNIPEG", "1996-12-06"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["Gaulieder", ",", "formerly", "a", "member", "of", "Prime", "Minister", "Vladimir", "Meciar", "'s", "ruling", "Movement", "for", "a", "Democratic", "Slovakia", ",", "was", "stripped", "of", "his", "parliamentary", "mandate", "on", "Wednesday", "after", "leaving", "the", "party", "last", "month", "in", "protest", "over", "what", "he", "said", "was", "a", "lack", "of", "democracy", "in", "the", "country", "."],
+    "label": [[0, 1, "PER"], [8, 10, "PER"], [12, 17, "ORG"]]
+  },
+  {
+    "text": ["Arminia", "Bielefeld", "16", "4", "4", "8", "18", "28", "16"],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["1.", "Jesper", "Ronnback", "(", "Sweden", ")", "25.76", "points"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["Aston", "Villa", "17", "9", "3", "5", "22", "15", "30"],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["Fourie", "69", "73", "71"],
+    "label": [[0, 1, "PER"]]
+  },
+  {
+    "text": ["Everton", "16", "6", "6", "4", "25", "20", "24"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Ljubljana", "(", "Slovenia", ")", "9", "6", "3", "15"],
+    "label": [[0, 1, "ORG"], [2, 3, "LOC"]]
+  },
+  {
+    "text": ["one-day", "cricket", "international", "between", "Pakistan", "and", "New", "Zealand"],
+    "label": [[4, 5, "LOC"], [6, 8, "LOC"]]
+  },
+  {
+    "text": ["Jeon", "Woon", "55"],
+    "label": [[0, 2, "PER"]]
+  },
+  {
+    "text": ["I", "'ve", "also", "got", "a", "contract", "to", "play", "for", "New", "South", "Wales", "in", "the", "Super", "12", "next", "year", ".", "\""],
+    "label": [[9, 12, "ORG"]]
+  },
+  {
+    "text": ["Tallinna", "Pank", "said", "its", "assets", "rose", "17.8", "million", "kroons", "to", "1.84", "billion", "kroons", "."],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["NY", "RANGERS", "10", "13", "5", "91", "81", "25"],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["214", "Steven", "Waltman", "72", "70", "72", ",", "Bradford", "Vaughan", "72", "71"],
+    "label": [[1, 3, "PER"], [7, 9, "PER"]]
+  },
+  {
+    "text": ["Australia", "gave", "Brian", "Lara", "another", "reason", "to", "be", "miserable", "when", "they", "beat", "West", "Indies", "by", "five", "wickets", "in", "the", "opening", "World", "Series", "limited", "overs", "match", "on", "Friday", "."],
+    "label": [[0, 1, "LOC"], [2, 4, "PER"], [12, 14, "LOC"], [20, 22, "MISC"]]
+  },
+  {
+    "text": ["Senegal", "'s", "President", "Abdou", "Diouf", "said", "on", "Friday", "he", "was", "proposing", "his", "foreign", "minister", "Moustapha", "Niasse", "for", "the", "post", "of", "United", "Nations", "secretary-general", "."],
+    "label": [[0, 1, "LOC"], [3, 5, "PER"], [14, 16, "PER"], [20, 22, "ORG"]]
+  },
+  {
+    "text": ["9.", "Soininen", "85"],
+    "label": [[1, 2, "PER"]]
+  },
+  {
+    "text": ["The", "rebels", "do", "not", "want", "the", "multinational", "force", "to", "deploy", "on", "the", "ground", ",", "for", "fear", "it", "might", "help", "the", "Zairean", "army", "regain", "control", "of", "the", "area", "."],
+    "label": [[20, 21, "MISC"]]
+  },
+  {
+    "text": ["They", "told", "Reuters", "they", "were", "unhappy", "that", "the", "ruling", "State", "Law", "and", "Order", "Restoration", "Council", "(", "SLORC", ")", "had", "not", "heeded", "their", "calls", "for", "the", "right", "to", "organise", "independent", "unions", "on", "campus", "."],
+    "label": [[2, 3, "ORG"], [9, 15, "ORG"], [16, 17, "ORG"]]
+  },
+  {
+    "text": ["The", "United", "States", "on", "Nov.", "19", "vetoed", "his", "bid", "for", "re-election", "while", "the", "other", "14", "Security", "Council", "members", "supported", "him", "."],
+    "label": [[1, 3, "LOC"], [15, 17, "ORG"]]
+  },
+  {
+    "text": ["But", "Rdainah", "said", "Arafat", "would", "go", "to", "Cairo", "on", "Saturday", "for", "talks", "with", "Mubarak", "."],
+    "label": [[1, 2, "PER"], [3, 4, "PER"], [7, 8, "LOC"], [13, 14, "PER"]]
+  },
+  {
+    "text": ["British", "Airways", "'s", "initial", "response", "was", "that", "\"", "unconditional", "divestiture", "of", "slots", "is", "unprecedented", "and", "if", "done", "it", "must", "be", "on", "the", "basis", "of", "fair", "market", "value", ".", "\""],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["Moroccan", "Mohamed", "Benchaou", ",", "the", "third", "person", "to", "die", "after", "a", "bombing", "on", "a", "Paris", "train", ",", "was", "a", "25-year-old", "student", "about", "to", "submit", "a", "mathematics", "doctorate", ",", "the", "Moroccan", "embassy", "said", "on", "Friday", "."],
+    "label": [[0, 1, "MISC"], [1, 3, "PER"], [14, 15, "LOC"], [29, 30, "MISC"]]
+  },
+  {
+    "text": ["The", "official", "said", "the", "latest", "government", "decision", "to", "split", "the", "company", "under", "a", "holding", "company", "would", "allow", "flexibility", "in", "NTT", "'s", "international", "phone", "business", "."],
+    "label": [[19, 20, "ORG"]]
+  },
+  {
+    "text": ["9.", "Ingeborg", "Helen", "Markein", "(", "Norway", ")", "58"],
+    "label": [[1, 3, "PER"], [5, 6, "LOC"]]
+  },
+  {
+    "text": ["The", "official", "Itar-Tass", "news", "agency", "quoted", "Livshits", "as", "telling", "parliamentary", "deputies", "that", "RAO", "Norilsky", "Nikel", "0#NKEL.RUO", "had", "to", "pay", "its", "tax", "arrears", "and", "that", "bankruptcy", "procedures", "applied", "to", "the", "metals", "group", "."],
+    "label": [[2, 3, "ORG"], [6, 7, "PER"], [12, 15, "ORG"]]
+  },
+  {
+    "text": ["Veronica", "Brenner", "of", "Canada", ",", "who", "picked", "up", "her", "first", "career", "victory", "at", "Tignes", "last", "year", ",", "made", "it", "two", "wins", "in", "a", "row", "at", "the", "French", "resort", "taking", "first", "in", "the", "women", "'s", "competition", "with", "a", "score", "of", "170.42", "."],
+    "label": [[0, 2, "PER"], [3, 4, "LOC"], [13, 14, "LOC"], [26, 27, "MISC"]]
+  },
+  {
+    "text": ["Texas", "/", "w", "Okla", "fed", "cattle", "market", "thin", "at", "$", "67", "-", "USDA", "."],
+    "label": [[0, 1, "LOC"], [3, 4, "LOC"], [12, 13, "ORG"]]
+  },
+  {
+    "text": ["But", "he", "said", "the", "company", "'s", "investment", "of", "more", "than", "$", "100", "million", "already", "this", "decade", ",", "largely", "in", "production", ",", "would", "help", "position", "it", "to", "compete", "with", "such", "competitors", "as", "brewers", "from", "the", "neighbouring", "Czech", "Republic", "."],
+    "label": [[35, 37, "LOC"]]
+  },
+  {
+    "text": ["Fulham", "22", "15", "3", "4", "36", "16", "48"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["4.", "Anka", "Baier", "(", "Germany", ")", "1:25.16"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["Est", "daily", "livestock", "slaughter", "under", "Fed", "inspection", "-", "USDA"],
+    "label": [[5, 6, "ORG"], [8, 9, "ORG"]]
+  },
+  {
+    "text": ["NEW", "JERSEY", "14", "10", "1", "61", "61", "29"],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["Attempts", "by", "copyright-based", "industries", "to", "ensure", "they", "get", "a", "cut", "from", "online", "works", "led", "to", "a", "storm", "of", "protests", "by", "Internet", "companies", "and", "critics", "who", "say", "the", "pacts", "would", "curb", "public", "access", "to", "online", "information", "from", "soccer", "results", "to", "stock", "prices", "."],
+    "label": [[20, 21, "MISC"]]
+  },
+  {
+    "text": ["Yakomas", "are", "hounded", "in", "stronghold", "districts", "of", "Patasse", "'s", "Baya", "people", "while", "other", "tribes", "have", "fled", "areas", "in", "rebel", "hands", "."],
+    "label": [[0, 1, "MISC"], [7, 8, "PER"], [9, 10, "MISC"]]
+  },
+  {
+    "text": ["Orrell", "22", "West", "Hartlepool", "15"],
+    "label": [[0, 1, "ORG"], [2, 4, "ORG"]]
+  },
+  {
+    "text": ["Aninat", "also", "said", "he", "was", "confident", "the", "Chilean", "Congress", "would", "ratify", "the", "treaty", "with", "Congress", "quickly", "."],
+    "label": [[0, 1, "PER"], [7, 8, "MISC"]]
+  },
+  {
+    "text": ["2.", "Germany", "1,135"],
+    "label": [[1, 2, "LOC"]]
+  },
+  {
+    "text": ["S.", "Law", "b", "Hooper", "21"],
+    "label": [[0, 2, "PER"], [3, 4, "PER"]]
+  },
+  {
+    "text": ["NEW", "JERSEY", "AT", "BOSTON"],
+    "label": [[0, 2, "ORG"], [3, 4, "LOC"]]
+  },
+  {
+    "text": ["--", "Milan", "newsroom", "+392", "66129502"],
+    "label": [[1, 2, "LOC"]]
+  },
+  {
+    "text": ["GREECE", ",", "Dec", "5", "-", "Greek", "port", "workers", "called", "off", "a", "strike", "which", "had", "kept", "the", "country", "'s", "ports", "closed", ",", "giving", "the", "government", "until", "Feb", "1", "to", "introduce", "a", "promised", "bonus", "scheme", "."],
+    "label": [[0, 1, "LOC"], [5, 6, "MISC"]]
+  },
+  {
+    "text": ["--", "Amsterdam", "newsroom", "+31", "20", "504", "5000", ",", "Fax", "+31", "20", "504", "504"],
+    "label": [[1, 2, "LOC"]]
+  },
+  {
+    "text": ["SOCCER", "-", "SPANISH", "FIRST", "DIVISION", "STANDINGS", "."],
+    "label": [[2, 3, "MISC"]]
+  },
+  {
+    "text": ["Damascus", "denies", "aiding", "the", "rebels", "."],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["Clyde", "15", "6", "4", "5", "21", "20", "22"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Hamburger", "SV", "16", "4", "5", "7", "20", "25", "17"],
+    "label": [[0, 2, "ORG"]]
+  },
+  {
+    "text": ["1.", "Alexis", "Blanc", "(", "France", ")", "238.36", "points"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["Marseille", "20", "6", "8", "6", "18", "17", "26"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["The", "relations", "with", "the", "Vatican", "have", "also", "been", "soured", "by", "a", "recent", "relaxation", "of", "Poland", "'s", "anti-abortion", "rules", ",", "which", "Kwasniewski", "signed", "into", "law", "last", "month", "."],
+    "label": [[4, 5, "LOC"], [14, 15, "LOC"], [20, 21, "PER"]]
+  },
+  {
+    "text": ["Lynnley", "Browning"],
+    "label": [[0, 2, "PER"]]
+  },
+  {
+    "text": ["25.", "Carole", "Montillet", "(", "France", ")", "1:50.91"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["Premier", "league"],
+    "label": [[0, 2, "MISC"]]
+  },
+  {
+    "text": ["HOBART", ",", "Australia", "1996-12-06"],
+    "label": [[0, 1, "LOC"], [2, 3, "LOC"]]
+  },
+  {
+    "text": ["5-2", "Real", "Madrid", "Real", "Madrid"],
+    "label": [[1, 3, "ORG"], [3, 5, "ORG"]]
+  },
+  {
+    "text": ["Chile", "and", "Mexico", "will", "start", "negotiations", "next", "year", "to", "broaden", "their", "free", "trade", "agreement", "to", "include", "services", "and", "investments", ",", "Finance", "Minister", "Eduardo", "Aninat", "said", "."],
+    "label": [[0, 1, "LOC"], [2, 3, "LOC"], [20, 21, "ORG"], [22, 24, "PER"]]
+  },
+  {
+    "text": ["Peterborough", "22", "4", "8", "10", "32", "41", "20"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Dunfermline", "2", "(", "Millar", "43", ",", "46", "penalty", ")", "Aberdeen", "3", "(", "Miller", "10", ",", "Rowson", "55", ",", "Windass", "78", ")", "."],
+    "label": [[0, 1, "ORG"], [3, 4, "PER"], [9, 10, "ORG"], [12, 13, "PER"], [15, 16, "PER"]]
+  },
+  {
+    "text": ["The", "report", ",", "to", "be", "debated", "in", "parliament", "in", "coming", "weeks", ",", "was", "seen", "by", "Reuters", "on", "Friday", ".", "\""],
+    "label": [[15, 16, "ORG"]]
+  },
+  {
+    "text": ["\"", "Newmont", "said", "it", "wants", "to", "discuss", "a", "friendly", "deal", "with", "Santa", "Fe", ",", "which", "is", "almost", "always", "a", "euphemism", "for", "'", "We", "have", "more", "money", "in", "our", "pocket", ",", "'", "\"", "said", "an", "arb", ",", "referring", "to", "a", "possible", "sweetened", "bid", "from", "Newmont", "."],
+    "label": [[1, 2, "ORG"], [11, 13, "ORG"], [43, 44, "ORG"]]
+  },
+  {
+    "text": ["The", "official", "from", "the", "U.N.", "refugee", "agency", "UNHCR", "said", "a", "chartered", "plane", "had", "picked", "up", "the", "staff", "from", "Bangui", "and", "was", "heading", "for", "Abidjan", ",", "Ivory", "Coast", "."],
+    "label": [[4, 5, "ORG"], [7, 8, "ORG"], [18, 19, "LOC"], [23, 24, "LOC"], [25, 27, "LOC"]]
+  },
+  {
+    "text": ["Princess", "of", "Loine", "19/11/96", "10,000", "Philippines"],
+    "label": [[0, 3, "MISC"], [5, 6, "LOC"]]
+  },
+  {
+    "text": ["Sevilla", "15", "4", "2", "9", "13", "20", "14"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["PITTSBURGH", "10", "13", "3", "86", "94", "23"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Santa", "Fe", "is", "headquartered", "Albuquerque", ",", "N.M.", "and", "reported", "1995", "earnings", "of", "$", "0.30", "per", "share", ",", "or", "$", "40", "million", ",", "on", "revenues", "of", "$", "350", "million", "."],
+    "label": [[0, 2, "ORG"], [4, 5, "LOC"], [6, 7, "LOC"]]
+  },
+  {
+    "text": ["Lincoln", "22", "8", "6", "8", "28", "33", "30"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["New", "York", "timecharter", "fixtures", "-", "Dec", "6", "."],
+    "label": [[0, 2, "LOC"]]
+  },
+  {
+    "text": ["Results", "of", "Brazilian"],
+    "label": [[2, 3, "MISC"]]
+  },
+  {
+    "text": ["-", "36", "barges", ",", "two", "each", "week", "May-August", ",", "mid-Mississippi", "offered", "at", "a", "steady", "135", "percent", ",", "bid", "at", "120", "percent", "(", "basis", "one", "each", "week", ")", "."],
+    "label": [[9, 10, "MISC"]]
+  },
+  {
+    "text": ["Middlesbrough", "17", "3", "6", "8", "20", "28", "15"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Clydebank", "16", "4", "2", "10", "11", "25", "14"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["GOLF", "-", "THIRD", "ROUND", "OF", "JCPENNEY", "CLASSIC", "WASHED", "OUT", "."],
+    "label": [[5, 7, "MISC"]]
+  },
+  {
+    "text": ["AMSTERDAM", "1996-12-07"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["HAVEL", "HAS", "TRAECHEOTOMY", "AFTER", "CONDITIONS", "WORSENS", "."],
+    "label": [[0, 1, "PER"]]
+  },
+  {
+    "text": ["\"", "The", "four", "Britons", "were", "shot", "at", "from", "a", "Mercedes", "car", "at", "around", "1", "a.m.", ",", "\"", "a", "spokeswoman", "told", "Reuters", "."],
+    "label": [[3, 4, "MISC"], [9, 10, "MISC"], [20, 21, "ORG"]]
+  },
+  {
+    "text": ["They", "have", "104", "points", ",", "15", "ahead", "of", "USA", "I", "'s", "Jim", "Herberich", "and", "breakman", "Garrett", "Hines", "who", "managed", "only", "10th", "place", "on", "Saturday", "."],
+    "label": [[8, 10, "ORG"], [11, 13, "PER"], [15, 17, "PER"]]
+  },
+  {
+    "text": ["Four", "African", "states", "are", "ready", "to", "nominate", "candidates", "for", "the", "post", "of", "U.N.", "secretary-general", "on", "Friday", "now", "that", "Boutros", "Boutros-Ghali", "has", "temporarily", "put", "aside", "his", "bid", "for", "re-election", "."],
+    "label": [[1, 2, "MISC"], [12, 13, "ORG"], [18, 20, "PER"]]
+  },
+  {
+    "text": ["Result", "of", "a", "EuroLeague", "basketball", "match", "on", "Thursday", ":"],
+    "label": [[3, 4, "MISC"]]
+  },
+  {
+    "text": ["NZ", "'s", "Peters", "says", "Nat", ",", "Lab", "talks", "at", "similar", "stage", "."],
+    "label": [[0, 1, "LOC"], [2, 3, "PER"], [4, 5, "PER"], [6, 7, "PER"]]
+  },
+  {
+    "text": ["OTTAWA", "7", "11", "6", "62", "72", "20"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Justin", "made", "his", "second", "straight", "start", "for", "Harbaugh", ",", "who", "has", "a", "knee", "injury", "."],
+    "label": [[0, 1, "PER"], [7, 8, "PER"]]
+  },
+  {
+    "text": ["\"", "Brazil", "ranks", "right", "at", "the", "top", "for", "plastic", "surgery", "with", "respect", "to", "the", "number", "of", "surgeons", ",", "the", "number", "of", "patients", ",", "number", "of", "operations", ",", "number", "of", "conferences", "."],
+    "label": [[1, 2, "LOC"]]
+  },
+  {
+    "text": ["7", "-", "Paul", "Wright", "(", "Kilmarnock", ")", ",", "Ally", "McCoist", "(", "Rangers", ")"],
+    "label": [[2, 4, "PER"], [5, 6, "ORG"], [8, 10, "PER"], [11, 12, "ORG"]]
+  },
+  {
+    "text": ["Sunderland", "16", "4", "5", "7", "14", "21", "17"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Chester", "21", "8", "6", "7", "23", "23", "30"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["DALLAS", "6", "11", ".353", "9", "1/2"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Hosts", "UAE", "play", "Kuwait", "and", "South", "Korea", "take", "on", "Indonesia", "on", "Saturday", "in", "Group", "A", "matches", "."],
+    "label": [[1, 2, "LOC"], [3, 4, "LOC"], [5, 7, "LOC"], [9, 10, "LOC"]]
+  },
+  {
+    "text": ["The", "Melbourne", "crowd", "were", "clearly", "angered", "by", "the", "incident", ",", "loudly", "jeering", "the", "West", "Indies", "vice-captain", "as", "he", "walked", "to", "the", "middle", "."],
+    "label": [[1, 2, "LOC"], [13, 15, "LOC"]]
+  },
+  {
+    "text": ["Indonesia", "-", "Ronny", "Wabia", "58", ",", "Widodo", "Putra", "65"],
+    "label": [[0, 1, "LOC"], [2, 4, "PER"], [6, 8, "PER"]]
+  },
+  {
+    "text": ["1.", "Thoma", "210", "points"],
+    "label": [[1, 2, "PER"]]
+  },
+  {
+    "text": ["NYMEX", "Alberta", "natgas", "remained", "untraded", ",", "with", "January", "settling", "at", "$", "1.65", ",", "off", "10", "cents", "from", "Thursday", "."],
+    "label": [[0, 1, "ORG"], [1, 2, "LOC"]]
+  },
+  {
+    "text": ["N.", "McLean", "c", "and", "b", "M.", "Waugh", "7"],
+    "label": [[0, 2, "PER"], [5, 7, "PER"]]
+  },
+  {
+    "text": ["NYMEX", "Permian", "natgas", ",", "also", "untraded", ",", "ended", "10", "cents", "lower", "at", "$", "2.90", "."],
+    "label": [[0, 1, "ORG"], [1, 2, "MISC"]]
+  },
+  {
+    "text": ["3.", "Minna", "Karhu", "(", "Finland", ")", "24.05"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["Werder", "Bremen", "1", "(", "Bode", "85th", ")", "1860", "Munich", "1", "(", "Bormirow", "8th", ")", "."],
+    "label": [[0, 2, "ORG"], [4, 5, "PER"], [7, 9, "ORG"], [11, 12, "PER"]]
+  },
+  {
+    "text": ["Adding", "to", "the", "comments", "by", "\"", "Mr", "Yen", "\"", ",", "as", "Sakakibara", "is", "known", "for", "his", "prominence", "in", "the", "currency", "market", ",", "was", "BOJ", "governor", "Matsushita", "'s", "remark", "."],
+    "label": [[6, 8, "PER"], [11, 12, "PER"], [23, 24, "ORG"], [25, 26, "PER"]]
+  },
+  {
+    "text": ["David", "Campese", "will", "consider", "offers", "to", "play", "club", "rugby", "in", "England", "but", "looks", "more", "likely", "to", "spend", "the", "next", "year", "chasing", "business", "opportunities", "in", "Australia", "."],
+    "label": [[0, 2, "PER"], [10, 11, "LOC"], [24, 25, "LOC"]]
+  },
+  {
+    "text": ["Despite", "winning", "the", "Asian", "Games", "title", "two", "years", "ago", ",", "Uzbekistan", "are", "in", "the", "finals", "as", "outsiders", "."],
+    "label": [[3, 5, "MISC"], [10, 11, "LOC"]]
+  },
+  {
+    "text": ["ATLANTA", "10", "8", ".556", "7"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["Palestinian", "Authority", "Secretary", "General", "Ahmed", "Abdel-Rahman", "said", "on", "Thursday", "he", "understood", "it", "could", "be", "held", "in", "Cairo", "either", "on", "Friday", "or", "Sunday", "."],
+    "label": [[0, 2, "ORG"], [4, 6, "PER"], [16, 17, "LOC"]]
+  },
+  {
+    "text": ["Squad", ":", "Javier", "Pertile", ",", "Paolo", "Vaccari", ",", "Marcello", "Cuttitta", ",", "Ivan", "Francescato", ",", "Leandro", "Manteri", ",", "Diego", "Dominguez", ",", "Francesco", "Mazzariol", ",", "Alessandro", "Troncon", ",", "Orazio", "Arancio", ",", "Andrea", "Sgorlon", ",", "Massimo", "Giovanelli", ",", "Carlo", "Checchinato", ",", "Walter", "Cristofoletto", ",", "Franco", "Properzi", "Curti", ",", "Carlo", "Orlandi", ",", "Massimo", "Cuttitta", ",", "Giambatista", "Croci", ",", "Gianluca", "Guidi", ",", "Nicola", "Mazzucato", ",", "Alessandro", "Moscardi", ",", "Andrea", "Castellani", "."],
+    "label": [[2, 4, "PER"], [5, 7, "PER"], [8, 10, "PER"], [11, 13, "PER"], [14, 16, "PER"], [17, 19, "PER"], [20, 22, "PER"], [23, 25, "PER"], [26, 28, "PER"], [29, 31, "PER"], [32, 34, "PER"], [35, 37, "PER"], [38, 40, "PER"], [41, 44, "PER"], [45, 47, "PER"], [48, 50, "PER"], [51, 53, "PER"], [54, 56, "PER"], [57, 59, "PER"], [60, 62, "PER"], [63, 65, "PER"]]
+  },
+  {
+    "text": ["The", "Clinton", "administration", "'s", "strong", "views", "on", "this", "subject", "have", "been", "conveyed", "to", "the", "Greek", "government", ",", "Burns", "said", "."],
+    "label": [[1, 2, "PER"], [14, 15, "MISC"], [17, 18, "PER"]]
+  },
+  {
+    "text": ["The", "protesting", "students", ",", "mostly", "from", "Rangoon", "University", ",", "were", "demanding", "the", "right", "to", "organise", "independent", "unions", "on", "campuses", "and", "the", "release", "of", "about", "80", "student", "leaders", "currently", "in", "jail", "."],
+    "label": [[6, 8, "ORG"]]
+  },
+  {
+    "text": ["BEIRUT", "1996-12-06"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["(", "Chicago", "newsdesk", "312", "408", "8720", ")"],
+    "label": [[1, 2, "LOC"]]
+  },
+  {
+    "text": ["Asked", "if", "he", "would", "disregard", "the", "objections", "of", "the", "Zairean", "government", ",", "he", "said", ":", "\"", "It", "would", "have", "to", "be", "in", "the", "last", "resort", "."],
+    "label": [[9, 10, "MISC"]]
+  },
+  {
+    "text": ["FSA", "INSURED"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["But", "an", "open", "arbitrage", "to", "the", "U.S.", "and", "tight", "Italian", "supplies", "after", "Elf", "scooped", "up", "Med", "material", "over", "the", "last", "week", ",", "continued", "to", "underpin", "prices", "into", "next", "week", "."],
+    "label": [[6, 7, "LOC"], [9, 10, "MISC"], [12, 13, "ORG"]]
+  },
+  {
+    "text": ["LONDON", "1996-12-07"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["B.", "Young", "c", "Moin", "Khan", "b", "Waqar", "5"],
+    "label": [[0, 2, "PER"], [3, 5, "PER"], [6, 7, "PER"]]
+  },
+  {
+    "text": ["Coventry", "1", "(", "Whelan", "60", ")", "Tottenham", "2", "(", "Sheringham", "27", ",", "Sinton", "75", ")", "."],
+    "label": [[0, 1, "ORG"], [3, 4, "PER"], [6, 7, "ORG"], [9, 10, "PER"], [12, 13, "PER"]]
+  },
+  {
+    "text": ["Moslem", "fundamentalists", "killed", "19", "civilians", "overnight", "in", "Blida", "province", "south", "of", "Algiers", ",", "Algerian", "security", "forces", "said", "on", "Friday", "."],
+    "label": [[0, 1, "MISC"], [7, 8, "LOC"], [11, 12, "LOC"], [13, 14, "MISC"]]
+  },
+  {
+    "text": ["SOCCER", "-", "SPANISH", "FIRST", "DIVISION", "SUMMARY", "."],
+    "label": [[2, 3, "MISC"]]
+  },
+  {
+    "text": ["Heavy", "rains", "on", "Saturday", "washed", "out", "the", "third", "round", "of", "the", "$", "1.5", "million", "JCPenney", "Classic", "at", "the", "Innisbrook", "Hilton", "Resort", "."],
+    "label": [[14, 16, "MISC"], [18, 21, "LOC"]]
+  },
+  {
+    "text": ["MEXICO", "CITY"],
+    "label": [[0, 2, "LOC"]]
+  },
+  {
+    "text": ["But", "Lebanese", "political", "analysts", "have", "said", "that", "would", "be", "out", "of", "the", "question", "and", "Lebanese", "authorities", "pre-empted", "the", "issue", "by", "taking", "legal", "action", "against", "Lahd", "."],
+    "label": [[1, 2, "MISC"], [14, 15, "MISC"], [24, 25, "PER"]]
+  },
+  {
+    "text": ["League", "game", "on", "Thursday", "(", "home", "team", "in", "CAPS", ")", ":"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["12-1", "Fernando", "Redondo", "9-1", "Giovanni"],
+    "label": [[1, 3, "PER"], [4, 5, "PER"]]
+  },
+  {
+    "text": ["VANCOUVER", "14", "11", "1", "84", "83", "29"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["HARARE", "1996-12-06"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["TORONTO", "11", "15", "0", "76", "89", "22"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["LONDON", "1996-12-07"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["PLO", "negotiators", "said", "on", "Friday", "Palestinian", "President", "Yasser", "Arafat", ",", "Israeli", "Prime", "Minister", "Benjamin", "Netanyahu", "and", "Egyptian", "President", "Hosni", "Mubarak", "might", "all", "meet", "on", "Saturday", "to", "try", "to", "clinch", "a", "deal", "on", "Israel", "'s", "handover", "of", "Hebron", "to", "the", "PLO", "."],
+    "label": [[0, 1, "ORG"], [5, 6, "MISC"], [7, 9, "PER"], [10, 11, "MISC"], [13, 15, "PER"], [16, 17, "MISC"], [18, 20, "PER"], [32, 33, "LOC"], [36, 37, "LOC"], [39, 40, "ORG"]]
+  },
+  {
+    "text": ["Results", "of", "Northern", "Ireland", "premier"],
+    "label": [[2, 4, "LOC"]]
+  },
+  {
+    "text": ["Supple", "said", "the", "struggle", "that", "Singapore", "had", "to", "wage", "in", "vying", "to", "host", "the", "meeting", "would", "be", "repeated", "during", "the", "talks", "."],
+    "label": [[0, 1, "PER"], [5, 6, "LOC"]]
+  },
+  {
+    "text": ["SOCCER", "-", "SOUTH", "KOREA", "MOVE", "CLOSE", "TO", "QUARTER-FINAL", "BERTH", "."],
+    "label": [[2, 4, "LOC"]]
+  },
+  {
+    "text": ["(", "(", "Chicago", "newsdesk", "312-408-8720", ")", ")"],
+    "label": [[2, 3, "LOC"]]
+  },
+  {
+    "text": ["Glenavon", "2", "Linfield", "1"],
+    "label": [[0, 1, "ORG"], [2, 3, "ORG"]]
+  },
+  {
+    "text": ["9.", "Xu", "Nannan", "(", "China", ")", "152.08"],
+    "label": [[1, 3, "PER"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["In", "a", "statement", "Havel", ",", "who", "is", "recovering", "from", "cancer", "surgery", ",", "said", ":", "\"", "Madeleine", "Albright", "is", "a", "distinguished", "friend", ",", "a", "tested", "diplomat", ",", "and", "a", "true", "American", "of", "fine", "origins", ".", "\""],
+    "label": [[3, 4, "PER"], [15, 17, "PER"], [29, 30, "MISC"]]
+  },
+  {
+    "text": ["ORE", "-", "Maritime", "Queen", "70,000", "tonnes", "Dampier", "/", "Kaohsiung", "20-30/12", "$", "5.25", "fio", "35,000", "/", "30,000", "China", "Steel", "."],
+    "label": [[2, 4, "MISC"], [6, 7, "LOC"], [8, 9, "LOC"], [16, 18, "ORG"]]
+  },
+  {
+    "text": ["Japan", "NTT", "says", "hopes", "to", "start", "int'l", "business", "soon", "."],
+    "label": [[0, 1, "LOC"], [1, 2, "ORG"]]
+  },
+  {
+    "text": ["France", "lost", "0.37", "percent", ",", "followed", "by", "Italy", "on", "minus", "0.59", "percent", "."],
+    "label": [[0, 1, "LOC"], [7, 8, "LOC"]]
+  },
+  {
+    "text": ["The", "weather", "in", "the", "capital", "Port", "Louis", "was", "heavily", "cloudy", "on", "Friday", "afternoon", "with", "occasional", "showers", "."],
+    "label": [[5, 7, "LOC"]]
+  },
+  {
+    "text": ["Laurent", "Blanc"],
+    "label": [[0, 2, "PER"]]
+  },
+  {
+    "text": ["CRICKET", "-", "LARA", "ENDURES", "ANOTHER", "MISERABLE", "DAY", "."],
+    "label": [[2, 3, "PER"]]
+  },
+  {
+    "text": ["SHANGHAI", "1996-12-06"],
+    "label": [[0, 1, "LOC"]]
+  },
+  {
+    "text": ["West", "Indies", "-", "Sherwin", "Campbell", ",", "Robert", "Samuels", ",", "Brian", "Lara", ",", "Shivnarine", "Chanderpaul", ",", "Carl", "Hooper", ",", "Jimmy", "Adams", ",", "Junior", "Murray", ",", "Nixon", "McLean", ",", "Kenneth", "Benjamin", ",", "Curtly", "Ambrose", ",", "Courtney", "Walsh", "(", "captain", ")", ",", "Roland", "Holder", "12th", "man", "."],
+    "label": [[0, 2, "LOC"], [3, 5, "PER"], [6, 8, "PER"], [9, 11, "PER"], [12, 14, "PER"], [15, 17, "PER"], [18, 20, "PER"], [21, 23, "PER"], [24, 26, "PER"], [27, 29, "PER"], [30, 32, "PER"], [33, 35, "PER"], [39, 41, "PER"]]
+  },
+  {
+    "text": ["Tropical", "air", "carrying", "sporadic", "light", "rains", "over", "the", "coast", "of", "Quintana", "Roo", "state", "."],
+    "label": [[10, 12, "LOC"]]
+  },
+  {
+    "text": ["INTERVIEW-ZYWIEC", "SEES", "NO", "BIG", "97", "NET", "RISE", "."],
+    "label": [[0, 1, "MISC"]]
+  },
+  {
+    "text": ["Sangthai", "Glory", "22/11/96", "3,000", "Singapore"],
+    "label": [[0, 2, "MISC"], [4, 5, "LOC"]]
+  },
+  {
+    "text": ["Stranraer", "0", "Brechin", "1"],
+    "label": [[0, 1, "ORG"], [2, 3, "ORG"]]
+  },
+  {
+    "text": ["Top-seeded", "Eyles", "now", "meets", "titleholder", "Peter", "Nicol", "of", "Scotland", "who", "overcame", "Simon", "Parke", "of", "England", "15-7", "15-12", "15-12", "."],
+    "label": [[1, 2, "PER"], [5, 7, "PER"], [8, 9, "LOC"], [11, 13, "PER"], [14, 15, "LOC"]]
+  },
+  {
+    "text": ["Bowling", ":", "Doull", "8-1-60-0", "(", "w-3", ")", ",", "Kennedy", "3-0-24-0", "(", "w-7", "nb-1", ")", ","],
+    "label": [[2, 3, "PER"], [8, 9, "PER"]]
+  },
+  {
+    "text": ["Along", "with", "leaders", "Vicenza", ",", "fourth-placed", "Bologna", "represent", "the", "biggest", "surprise", "of", "this", "Italian", "autumn", "."],
+    "label": [[3, 4, "ORG"], [6, 7, "ORG"], [13, 14, "MISC"]]
+  },
+  {
+    "text": ["\"", "I", "bear", "witness", "that", "there", "is", "no", "God", "but", "Allah", "and", "I", "bear", "witness", "that", "the", "prophet", "Mohammed", "is", "the", "messenger", "of", "God", ",", "\"", "he", "quoted", "Mills", "as", "saying", "."],
+    "label": [[8, 9, "PER"], [10, 11, "PER"], [18, 19, "PER"], [23, 24, "PER"], [28, 29, "PER"]]
+  },
+  {
+    "text": ["16=", "Claudia", "Riegler", "(", "New", "Zealand", ")", "100"],
+    "label": [[1, 3, "PER"], [4, 6, "LOC"]]
+  },
+  {
+    "text": ["NEW", "YORK", "1996-12-06"],
+    "label": [[0, 2, "LOC"]]
+  },
+  {
+    "text": ["Chelsea", "16", "6", "7", "3", "25", "23", "25"],
+    "label": [[0, 1, "ORG"]]
+  },
+  {
+    "text": ["German", "Jan-August", "coffee", "imports", "detailed", "."],
+    "label": [[0, 1, "MISC"]]
+  },
+  {
+    "text": ["CRICKET", "-", "SHEFFIELD", "SHIELD", "SCORE", "."],
+    "label": [[2, 4, "MISC"]]
+  },
+  {
+    "text": ["Marlow", "'s", "comment", "come", "on", "the", "heels", "of", "speculation", "that", "Clarke", "had", "threatened", "to", "resign", "if", "the", "government", "changed", "its", "\"", "wait", "and", "see", "\"", "policy", "on", "a", "single", "currency", "and", "declared", "it", "would", "not", "sign", "up", "for", "the", "currency", "in", "the", "next", "Parliament", "."],
+    "label": [[0, 1, "PER"], [10, 11, "PER"]]
+  },
+  {
+    "text": ["Results", "of", "National", "Basketball"],
+    "label": [[2, 4, "ORG"]]
+  },
+  {
+    "text": ["Albanian", "jailed", "for", "threat", "of", "bomb", "suicide", "."],
+    "label": [[0, 1, "MISC"]]
+  },
+  {
+    "text": ["Matthew", "estimates", "that", "by", "the", "2000/01", "season", ",", "the", "gap", "between", "natural", "rubber", "output", "and", "consumption", "will", "rise", "to", "51,000", "tonnes", "and", "319,000", "tonnes", "in", "2010/11", "."],
+    "label": [[0, 1, "PER"]]
+  }
+]

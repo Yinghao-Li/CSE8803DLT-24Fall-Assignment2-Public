@@ -1,0 +1,10 @@
+{
+  "entity_types": [
+    "PER",
+    "LOC",
+    "ORG",
+    "MISC"
+  ],
+  "max_length": 124,
+  "num_labels": 9
+}
